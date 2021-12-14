@@ -1,6 +1,17 @@
 # Collaborative Filtering Models on ML-Latest (small) Dataset
 This repository presents a comprehensive implementation of collaborative filtering recommender systems, from memory-based collaborative filtering to more advanced machine learning algorithms. It starts by implementing basics collaborative filtering algorithms such as <b>user-based</b> collaborative filering also known as user-to-user collaborative filtering and <b>item-based</b> collaborative filtering (item-to-item collaborative filtering). This repository also goes through dimensionality reduction based recommendation system. It presents models such as **Singular Value Decomposition** (SVD), **Matrix Factorization** (MF), **Non Negative Matrix Factorization** (NMF) and **Explainable Matrix Factorization** (EMF).
 
+| | |
+| --- | --- |
+| CF Part 1 - Data loading and EDA | Collaborative Filtering on MovieLens Latest-small Part 1 - Downloading movielens latest small dataset and exploratory data analysis |
+| CF Part 2 - User-based method | Collaborative Filtering on MovieLens Latest-small Part 2 - Finding recommendations using memory based user-user similarity method. |
+| CF Part 3 - Item-based method | Collaborative Filtering on MovieLens Latest-small Part 3 - Finding recommendations using memory based item-item similarity method. |
+| CF Part 4 - SVD method | Collaborative Filtering on MovieLens Latest-small Part 4 - Finding recommendations using model based singular value decomposition (SVD) method. |
+| CF Part 5 - Matrix factorization method | Collaborative Filtering on MovieLens Latest-small Part 5 - Finding recommendations using model based matrix factorization method. |
+| CF Part 6 - Non-negative Matrix factorization method | Collaborative Filtering on MovieLens Latest-small Part 6 - Finding recommendations using model based non-negative matrix factorization method. |
+| CF Part 7 - Explainable Matrix factorization method | Collaborative Filtering on MovieLens Latest-small Part 7 - Finding recommendations using model based explainable matrix factorization method. |
+| CF Part 8 - Evaluation | Collaborative Filtering on MovieLens Latest-small Part 8 - Evaluation of various methods. |
+
 ## References
 
 1. Daniel Billsus  and  Michael J. Pazzani (1998). [Learning Collaborative Information Filters](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)
